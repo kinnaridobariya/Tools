@@ -11,7 +11,7 @@ This repository contains hands-on labs and exercises focused on various cybersec
   
 - **Packet Analysis for Brute-Force Attack Detection**  
   Simulate and detect brute-force attacks using Wireshark filters.
-  -
+  
   
 - **Traffic Analysis**  
   Analyze different traffic patterns to identify potential security breaches and anomalies in the network.
